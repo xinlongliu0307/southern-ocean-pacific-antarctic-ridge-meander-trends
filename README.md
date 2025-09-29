@@ -22,7 +22,7 @@ The analyses combine satellite altimetry, RG Argo climatology, and CMEMS surface
 
 ## Key MATLAB functions  
 
-### ADT and Argo
+### Gyre and Argo
 - **`01-PAR-Argo-Temperature-2004-2023-Build-4D-Cube.m`**  
   Constructs 4-D absolute temperature fields (time × lon × lat × pressure) from RG Argo mean + anomalies (2004–2023), concatenates monthly NetCDF inputs, and saves MATLAB datasets.
 
